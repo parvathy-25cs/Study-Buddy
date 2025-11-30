@@ -106,6 +106,3 @@ StudyBuddy successfully integrates predictive analytics with personalized academ
 StudyBuddy therefore stands as a valuable and innovative agent for improving student performance, supporting educational institutions, and enhancing academic decision-making through technology.
 
 ---
-
-
-Just tell me which format you need.
